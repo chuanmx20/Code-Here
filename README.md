@@ -1,7 +1,7 @@
 # Code-Here
 This is a simple finder tool implemented with `Apple Script`
 
-![](demonstrate.mov)
+![](demonstrate.gif)
 
 ## Usage
 
